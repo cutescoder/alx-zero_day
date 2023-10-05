@@ -1,1 +1,1 @@
-git projects
+Updated Readme file as instructed
